@@ -11,6 +11,8 @@ Pacific --- Mumbai)
 > `<YOUR_BUCKET_NAME>` with values from your own AWS account. Do not
 > commit AWS access keys, secret keys, or other credentials to GitHub.
 
+![image alt](https://github.com/Y-Vishanth/Aws-Serverless-Web-App/blob/c4703147a0fac8d41871298d6d214a42cbf82912/Website%20Pic.jpeg)
+
 ## 1. Project overview
 
 The application has a simple web interface with fields for:
